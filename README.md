@@ -209,9 +209,3 @@ No installer and no extra packages beyond pyserial (and optional ffmpeg for MP3)
 ## Disclaimer
 
 This is unofficial software. Use at your own risk. The authors are not affiliated with Icom. Incorrect use of clone write can leave the radio with unexpected memory contents; keep backups and power-cycle after writes when needed.
-
----
-
-## Licence
-
-Choose a licence that fits your distribution (for example MIT or GPL-2.0) and add a `LICENSE` file before publishing. Upstream ic-r20-studio should be credited when redistributing protocol-derived code.
