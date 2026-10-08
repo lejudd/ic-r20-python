@@ -4,3 +4,4 @@ working-backup/
 listen.py
 *.csv
 *.icf
+.gitignore
