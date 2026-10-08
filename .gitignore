@@ -1,0 +1,6 @@
+# Ignored files and directories
+tracks/
+working-backup/
+listen.py
+*.csv
+*.icf
